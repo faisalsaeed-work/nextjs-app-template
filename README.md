@@ -31,7 +31,7 @@ This is a starter project using Next.js, Typescript, NPM, Shadcn/UI, Prettier, a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/logiconllc/nextjs-starter-template
+   git clone https://github.com/faisalsaeed-work/nextjs-app-template.git
    cd nextjs-starter-template
    ```
 
